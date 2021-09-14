@@ -1,0 +1,16 @@
+C:\Users\aaguiar\Documents\faculdade\cartoesHeranca\bin\Debug\net5.0\herancaCSharp.exe
+C:\Users\aaguiar\Documents\faculdade\cartoesHeranca\bin\Debug\net5.0\herancaCSharp.deps.json
+C:\Users\aaguiar\Documents\faculdade\cartoesHeranca\bin\Debug\net5.0\herancaCSharp.runtimeconfig.json
+C:\Users\aaguiar\Documents\faculdade\cartoesHeranca\bin\Debug\net5.0\herancaCSharp.runtimeconfig.dev.json
+C:\Users\aaguiar\Documents\faculdade\cartoesHeranca\bin\Debug\net5.0\herancaCSharp.dll
+C:\Users\aaguiar\Documents\faculdade\cartoesHeranca\bin\Debug\net5.0\ref\herancaCSharp.dll
+C:\Users\aaguiar\Documents\faculdade\cartoesHeranca\bin\Debug\net5.0\herancaCSharp.pdb
+C:\Users\aaguiar\Documents\faculdade\cartoesHeranca\obj\Debug\net5.0\herancaCSharp.csproj.AssemblyReference.cache
+C:\Users\aaguiar\Documents\faculdade\cartoesHeranca\obj\Debug\net5.0\herancaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaguiar\Documents\faculdade\cartoesHeranca\obj\Debug\net5.0\herancaCSharp.AssemblyInfoInputs.cache
+C:\Users\aaguiar\Documents\faculdade\cartoesHeranca\obj\Debug\net5.0\herancaCSharp.AssemblyInfo.cs
+C:\Users\aaguiar\Documents\faculdade\cartoesHeranca\obj\Debug\net5.0\herancaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\aaguiar\Documents\faculdade\cartoesHeranca\obj\Debug\net5.0\herancaCSharp.dll
+C:\Users\aaguiar\Documents\faculdade\cartoesHeranca\obj\Debug\net5.0\ref\herancaCSharp.dll
+C:\Users\aaguiar\Documents\faculdade\cartoesHeranca\obj\Debug\net5.0\herancaCSharp.pdb
+C:\Users\aaguiar\Documents\faculdade\cartoesHeranca\obj\Debug\net5.0\herancaCSharp.genruntimeconfig.cache
